@@ -23,8 +23,8 @@ This project implements a lightweight, autograd-enabled tensor class `UniTensor`
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/imaditya123/tensor_grad.git
+   cd tensor_grad
    ```
 2. Install dependencies:
    ```bash
